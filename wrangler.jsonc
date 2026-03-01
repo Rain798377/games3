@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "zsm3we84g8mz7kyk",
+  "compatibility_date": "2025-09-27",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "root"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
